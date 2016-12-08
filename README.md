@@ -1,2 +1,1 @@
-# emailExample
-email development practice
+## Email development practice
